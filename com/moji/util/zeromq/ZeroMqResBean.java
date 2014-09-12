@@ -8,7 +8,6 @@ public class ZeroMqResBean {
 	@Expose
 	private String msg;
 	
-	private String aa;
 	public Integer getCode() {
 		return code;
 	}
